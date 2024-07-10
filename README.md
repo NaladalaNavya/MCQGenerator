@@ -16,7 +16,7 @@ MCQ Generator is a project that generates multiple-choice questions (MCQs) using
 1. **Clone the Repository:**
 
     ```sh
-    git clone https://github.com/yourusername/mcq-generator.git
+    git clone https://github.com/NaladalaNavya/MCQGenerator.git
     cd mcq-generator
     ```
 
